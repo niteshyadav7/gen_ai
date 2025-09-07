@@ -1,4 +1,4 @@
-```markdown
+
 # An Overview of Server-Side Rendering (SSR) — Student Notes (Part 5)
 
 > **Goal:** Quick, student-friendly notes that explain what SSR is, why it matters, and when to use it — in plain language and easy-to-scan format.
